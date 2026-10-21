@@ -26,7 +26,12 @@ XML читается потоково, с очисткой памяти посл
 
 ## Запуск
 
-(дописать: команды запуска парсеров)
+Исходные файлы `PointzAggregator-AirlinesData.xml` и `SkyTeam-Exchange.yaml` должны лежать в `data/raw/`.
+
+```bash
+python3 participants/p4_pointz_skyteam/src/parse_pointz.py
+python3 participants/p4_pointz_skyteam/src/parse_skyteam.py
+python3 participants/p4_pointz_skyteam/src/match_pointz_skyteam.py
 
 ## Примеры
 
