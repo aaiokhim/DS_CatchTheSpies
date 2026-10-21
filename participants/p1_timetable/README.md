@@ -16,7 +16,17 @@
 
 ## Запуск
 
-(дописать: команда запуска парсера)
+### Шаг 1. Парсинг PDF-расписания:
+```bash 
+python3 participants/p1_timetable/src/parse_timetable.py
+```
+
+### Шаг 2. Сборка справочников аэропортов и маршрутов:
+```bash 
+python3 participants/p1_timetable/src/build_references.py
+```
+
+
 
 ## Примеры
 
