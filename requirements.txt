@@ -3,3 +3,4 @@ pyarrow>=14
 numpy
 ijson
 pyyaml
+openpyxl
