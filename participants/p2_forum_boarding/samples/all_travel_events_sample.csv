@@ -1,0 +1,21 @@
+source,source_record_id,forum_profile_id,nickname,first_name,second_name,last_name,sex,birth_date,document,loyalty_cards,flight_date,flight_time,flight_number,codeshare,origin,origin_city,destination,destination_city,pnr,ticket_number,baggage,linked_records,is_linked
+forum,forum:40409:14,40409,FrequentFlyer60777,,,,Female,,,FB520518073,2017-01-01,,AF1145,False,SVO,Moscow,CDG,Paris,,,,,False
+forum,forum:66468:16,66468,FrequentFlyer99821,,,,Female,,,DT425998795; FB18427809; KE206575495; SU363105640,2017-01-01,,AF1844,False,SVO,Moscow,CDG,Paris,,,,,False
+forum,forum:58953:10,58953,FrequentFlyer88655,OLESYA,,DOROFEEVA,Female,,,KE993927664,2017-01-01,,AF4855,True,SVO,Moscow,CDG,Paris,,,,,False
+forum,forum:33489:13,33489,FrequentFlyer50325,YAROMIR,,TOKAREV,Male,,,SU667777811,2017-01-01,,AZ595,False,SVO,Moscow,FCO,Rome,,,,,False
+forum,forum:66171:14,66171,FrequentFlyer99386,YAROMIR,,SEMENOV,Male,,,FB734066353,2017-01-01,,CZ4301,True,SVO,Moscow,GVA,Geneva,,,,,False
+forum,forum:65689:0,65689,FrequentFlyer98673,SOFIYA,,OSTROVSKAYA,Female,,,,2017-01-01,,CZ4305,True,SVO,Moscow,ATH,Athens,,,,,False
+forum,forum:20854:7,20854,FrequentFlyer31356,VASILIY,,FEDOROV,Male,,,FB835216223,2017-01-01,,CZ4307,True,SVO,Moscow,HEL,Helsinki,,,,,False
+boarding_csv,boarding:9614,,,ROMAN,A.,SINITSYN,Male,1975-03-10,0177438191,,2017-01-01,09:15:00,SU1001,False,,,,Moscow,WFOKBK,,None,forum:3828,True
+boarding_csv,boarding:9615,,,ALINA,I.,KULIKOVA,Female,1980-09-07,3051362353,,2017-01-01,09:15:00,SU1001,False,,,,Moscow,,,Registered,forum:44796,True
+boarding_csv,boarding:9616,,,VSEVOLOD,TAMERLANOVICH,STARIKOV,Male,1994-04-08,1146952519,,2017-01-01,09:15:00,SU1001,False,,,,Moscow,,5844546995684223,Registered,,False
+boarding_csv,boarding:9617,,,VALENTINA,T.,DEMIANOVA,Female,1977-04-27,9115247669,,2017-01-01,09:15:00,SU1001,False,,,,Moscow,QVSCOZ,,Transit,,False
+boarding_csv,boarding:9618,,,MARK,A.,BEREZIN,Male,1974-07-09,1205586135,,2017-01-01,09:15:00,SU1001,False,,,,Moscow,,8200536201563048,Registered,,False
+boarding_csv,boarding:9619,,,ALISA,R.,ABRAMOVA,Female,1999-12-13,5140683757,,2017-01-01,09:15:00,SU1001,False,,,,Moscow,WMXPVY,4178366651490017,Transit,,False
+boarding_csv,boarding:9620,,,SOFIA,GLEBOVNA,MALYSHEVA,Female,1990-12-29,6729270229,,2017-01-01,09:15:00,SU1001,False,,,,Moscow,,8291257071097186,Registered,,False
+boarding_csv,boarding:9614,,,ROMAN,A.,SINITSYN,Male,1975-03-10,0177438191,,2017-01-01,09:15:00,SU1001,False,,,,Moscow,WFOKBK,,None,forum:3828,True
+boarding_csv,boarding:9615,,,ALINA,I.,KULIKOVA,Female,1980-09-07,3051362353,,2017-01-01,09:15:00,SU1001,False,,,,Moscow,,,Registered,forum:44796,True
+boarding_csv,boarding:9626,,,VLADIMIR,ODISSEICH,GOLOVIN,Male,1990-09-22,6607903249,,2017-01-01,09:15:00,SU1001,False,,,,Moscow,,2550018745253337,Transit,forum:20894,True
+forum,forum:3828:14,3828,FrequentFlyer5697,ROMAN,,SINITSYN,Male,,,KE976728932,2017-01-01,,SU1001,False,KGD,Kaliningrad,SVO,Moscow,,,,boarding:9614,True
+forum,forum:20894:11,20894,FrequentFlyer31422,VLADIMIR,,GOLOVIN,Male,,,DT718158956,2017-01-01,,SU1001,False,KGD,Kaliningrad,SVO,Moscow,,,,boarding:9626,True
+forum,forum:44796:11,44796,FrequentFlyer67382,ALINA,,KULIKOVA,Female,,,FB739154138,2017-01-01,,SU1001,False,KGD,Kaliningrad,SVO,Moscow,,,,boarding:9615,True

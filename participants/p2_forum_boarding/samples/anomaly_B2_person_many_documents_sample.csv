@@ -1,0 +1,5 @@
+source_record_id,first_name_norm,second_name_norm,last_name_norm,birth_date,document_norm,flight_date,flight_time,flight_number,destination_city,pnr,ticket_number
+boarding:126633,AMALIIA,N.,KUDRIAVTSEVA,1985-11-22,1378965068,2017-01-02,11:10:00,SU1483,Moscow,,
+boarding:120481,AMALIIA,RODIONOVNA,KUDRIAVTSEVA,1985-11-22,5518372746,2017-01-04,13:20:00,SU1491,Moscow,,5447675451334173
+boarding:21723,AMALIIA,RODIONOVNA,KUDRIAVTSEVA,1985-11-22,5518372746,2017-02-24,21:25:00,SU1322,Murmansk,,
+boarding:37035,AMALIIA,R.,KUDRIAVTSEVA,1985-11-22,5518372746,2017-02-28,21:40:00,SU1493,Moscow,,

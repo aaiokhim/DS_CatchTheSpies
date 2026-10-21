@@ -1,0 +1,21 @@
+flight_event_id,person_id,flight_number,flight_date,n_records,n_sources,sources,origin_airport,destination_airport,origin_airport_source,destination_airport_source,departure_time,arrival_date,arrival_time,origin_city,destination_city,booking_class,fare_code,has_suspicious_airport_record,airport_recovered_from_other_source,airport_still_broken,route_conflict,skyteam_route_disagrees,skyteam_route_reversed,route_conflict_without_skyteam
+FE00000001,P0000001,DL3377,2017-03-04,2,2,forum; skyteam,BOS,PIT,forum,forum,,,,BOSTON MA,PITTSBURGH PA,Y,YFLXUL,False,False,False,False,False,False,False
+FE00000002,P0000001,DL3630,2017-07-21,2,2,forum; skyteam,GRB,DTW,forum,forum,,,,GREEN BAY WI,DETROIT MI,Y,YSTNXE,False,False,False,False,False,False,False
+FE00000003,P0000001,DL5361,2017-03-22,2,2,forum; skyteam,PIT,LGA,forum,forum,,,,PITTSBURGH PA,NEW YORK NY,A,ASTNKS,False,False,False,False,False,False,False
+FE00000004,P0000001,SU3702,2017-01-04,2,2,forum; skyteam,SVO,WAW,forum,forum,,,,MOSCOW,WARSAW,Y,YRSTIP,False,False,False,False,False,False,False
+FE00000005,P0000001,DL3412,2017-08-08,2,2,forum; skyteam,XNA,ATL,forum,forum,,,,FAYETTEVILLE AR,ATLANTA GA,Y,YFLXNV,False,False,False,True,True,False,False
+FE00000006,P0000001,DL659,2017-08-30,2,2,forum; skyteam,ATL,FLL,forum,forum,,,,ATLANTA GA,FORT LAUDERDALE FL,Y,YGRPFU,False,False,False,False,False,False,False
+FE00000007,P0000001,DL5032,2017-06-10,2,2,forum; skyteam,ILM,ATL,forum,forum,,,,WILMINGTON NC,ATLANTA GA,Y,YRSTWB,False,False,False,False,False,False,False
+FE00000008,P0000001,DL3363,2017-11-10,3,3,boarding_passes; forum; skyteam,ATL,OAJ,boarding_passes,boarding_passes,12:34,,,ATLANTA GA,JACKSONVILLE NC,Y,YRSTOH,False,False,False,False,False,False,False
+FE00000009,P0000001,DL1364,2017-12-14,2,2,forum; skyteam,ATL,SMF,forum,forum,,,,ATLANTA GA,SACRAMENTO CA,Y,YSTNVW,False,False,False,False,False,False,False
+FE00000010,P0000001,AF3616,2017-02-27,2,2,forum; skyteam,CDG,BOS,forum,forum,,,,PARIS,BOSTON MA,Y,YRSTQT,False,False,False,False,False,False,False
+FE00000011,P0000001,DL3598,2017-07-30,2,2,forum; skyteam,DTW,EVV,forum,forum,,,,DETROIT MI,EVANSVILLE IN,Y,YRSTTZ,False,False,False,False,False,False,False
+FE00000012,P0000001,DL1726,2017-10-15,2,2,forum; skyteam,FLL,ATL,forum,forum,,,,FORT LAUDERDALE FL,ATLANTA GA,A,AFLXSA,False,False,False,False,False,False,False
+FE00000013,P0000001,DL5435,2017-05-26,2,2,forum; skyteam,ATL,ILM,forum,forum,,,,ATLANTA GA,WILMINGTON NC,Y,YRSTNI,False,False,False,False,False,False,False
+FE00000014,P0000001,DL5558,2017-08-03,2,2,forum; skyteam,ATL,XNA,forum,forum,,,,ATLANTA GA,FAYETTEVILLE AR,Y,YGRPCM,False,False,False,False,False,False,False
+FE00000015,P0000001,AF1247,2017-02-04,2,2,forum; skyteam,WAW,CDG,forum,forum,,,,WARSAW,PARIS,Y,YGRPNT,False,False,False,False,False,False,False
+FE00000016,P0000001,DL3481,2017-11-14,3,3,boarding_passes; forum; skyteam,OAJ,ATL,boarding_passes,boarding_passes,14:30,,,JACKSONVILLE NC,ATLANTA GA,Y,YFLXGW,False,False,False,False,False,False,False
+FE00000017,P0000001,DL5498,2017-03-31,2,2,forum; skyteam,LGA,BHM,forum,forum,,,,NEW YORK NY,BIRMINGHAM AI,Y,YSTNUW,False,False,False,False,False,False,False
+FE00000018,P0000001,DL5379,2017-08-01,2,2,forum; skyteam,EVV,ATL,forum,forum,,,,EVANSVILLE IN,ATLANTA GA,Y,YSTNHQ,False,False,False,True,True,False,False
+FE00000019,P0000001,DL3339,2017-07-14,2,2,forum; skyteam,SHV,ATL,forum,forum,,,,SHREVEPORT LA,ATLANTA GA,J,JSTNXU,False,False,False,False,False,False,False
+FE00000020,P0000001,DL2596,2017-04-01,2,2,forum; skyteam,BHM,ATL,forum,forum,,,,BIRMINGHAM AI,ATLANTA GA,A,AGRPBA,False,False,False,False,False,False,False

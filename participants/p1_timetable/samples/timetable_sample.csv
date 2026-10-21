@@ -1,0 +1,100 @@
+source_record_id,flight_number,flight_number_raw,carrier_code,is_codeshare,operated_by_raw,origin_airport,origin_city,origin_country,destination_airport,destination_city,destination_country,valid_from,valid_to,validity_raw,days_raw,days_normalized,departure_time,arrival_time,arrival_next_day,aircraft_code,travel_time,source_page,source_column,source
+1,KL1328,KL1328,KL,False,,AAL,Aalborg,Denmark,AMS,Amsterdam,Netherlands,01 Nov,31 Jan,01 Nov - 31 Jan,1234567,1234567,06:00,07:25,,73W,1H25M,5,L,Skyteam_Timetable
+2,KL1334,KL1334,KL,False,,AAL,Aalborg,Denmark,AMS,Amsterdam,Netherlands,01 Nov,31 Jan,01 Nov - 31 Jan,1234567,1234567,12:10,13:35,,73W,1H25M,5,L,Skyteam_Timetable
+3,KL1336,KL1336,KL,False,,AAL,Aalborg,Denmark,AMS,Amsterdam,Netherlands,01 Nov,23 Dec,01 Nov - 23 Dec,1234567,1234567,18:15,19:35,,EQV,1H20M,5,L,Skyteam_Timetable
+4,KL1336,KL1336,KL,False,,AAL,Aalborg,Denmark,AMS,Amsterdam,Netherlands,26 Dec,06 Jan,26 Dec - 06 Jan,1 34567,134567,18:15,19:35,,EQV,1H20M,5,L,Skyteam_Timetable
+5,KL1336,KL1336,KL,False,,AAL,Aalborg,Denmark,AMS,Amsterdam,Netherlands,07 Jan,31 Jan,07 Jan - 31 Jan,1234567,1234567,18:15,19:35,,EQV,1H20M,5,L,Skyteam_Timetable
+47,KL1333,KL1333,KL,False,,AMS,Amsterdam,Netherlands,AAL,Aalborg,Denmark,01 Nov,31 Jan,01 Nov - 31 Jan,1234567,1234567,10:05,11:30,,73W,1H25M,5,R,Skyteam_Timetable
+48,KL1335,KL1335,KL,False,,AMS,Amsterdam,Netherlands,AAL,Aalborg,Denmark,01 Nov,23 Dec,01 Nov - 23 Dec,1234567,1234567,16:25,17:45,,EQV,1H20M,5,R,Skyteam_Timetable
+49,KL1335,KL1335,KL,False,,AMS,Amsterdam,Netherlands,AAL,Aalborg,Denmark,26 Dec,06 Jan,26 Dec - 06 Jan,1 34567,134567,16:25,17:45,,EQV,1H20M,5,R,Skyteam_Timetable
+50,KL1335,KL1335,KL,False,,AMS,Amsterdam,Netherlands,AAL,Aalborg,Denmark,07 Jan,31 Jan,07 Jan - 31 Jan,1234567,1234567,16:25,17:45,,EQV,1H20M,5,R,Skyteam_Timetable
+51,KL1337,KL1337,KL,False,,AMS,Amsterdam,Netherlands,AAL,Aalborg,Denmark,01 Nov,31 Jan,01 Nov - 31 Jan,1234567,1234567,21:00,22:20,,73W,1H20M,5,R,Skyteam_Timetable
+101,KL1326,KL1326,KL,False,,AES,Aalesund,Norway,AMS,Amsterdam,Netherlands,01 Nov,31 Jan,01 Nov - 31 Jan,1 345 7,13457,16:50,18:55,,E75,2H5M,8,L,Skyteam_Timetable
+102,KL1326,KL1326,KL,False,,AES,Aalesund,Norway,AMS,Amsterdam,Netherlands,02 Nov,28 Jan,02 Nov - 28 Jan,2 6,26,17:10,19:15,,E75,2H5M,8,L,Skyteam_Timetable
+121,KL1325,KL1325,KL,False,,AMS,Amsterdam,Netherlands,AES,Aalesund,Norway,01 Nov,31 Jan,01 Nov - 31 Jan,1 345 7,13457,14:20,16:20,,E75,2H0M,8,R,Skyteam_Timetable
+122,KL1325,KL1325,KL,False,,AMS,Amsterdam,Netherlands,AES,Aalesund,Norway,02 Nov,28 Jan,02 Nov - 28 Jan,2 6,26,14:40,16:40,,E75,2H0M,8,R,Skyteam_Timetable
+141,SU1479,SU1479,SU,False,,ABA,Abakan,Russian Federation,SVO,Moscow,Russian Federation,02 Nov,30 Jan,02 Nov - 30 Jan,12 4 67,12467,09:55,10:55,,32A,5H0M,11,L,Skyteam_Timetable
+151,SU1478,SU1478,SU,False,,SVO,Moscow,Russian Federation,ABA,Abakan,Russian Federation,02 Nov,30 Jan,02 Nov - 30 Jan,12 4 67,12467,00:10,07:45,,32A,4H35M,11,R,Skyteam_Timetable
+155,SU1478,SU1478,SU,False,,SVO,Moscow,Russian Federation,ABA,Abakan,Russian Federation,02 Nov,30 Jan,02 Nov - 30 Jan,12 4 67,12467,01:10,08:45,,32A,4H35M,11,R,Skyteam_Timetable
+158,SU1478,SU1478,SU,False,,SVO,Moscow,Russian Federation,ABA,Abakan,Russian Federation,02 Nov,30 Jan,02 Nov - 30 Jan,12 4 67,12467,00:05,08:45,,32A,4H40M,11,R,Skyteam_Timetable
+161,KL1440,KL1440,KL,False,,ABZ,Aberdeen,United Kingdom,AMS,Amsterdam,Netherlands,01 Nov,31 Jan,01 Nov - 31 Jan,1234567,1234567,06:00,08:40,,73W,1H40M,14,L,Skyteam_Timetable
+162,KL1442,KL1442,KL,False,,ABZ,Aberdeen,United Kingdom,AMS,Amsterdam,Netherlands,01 Nov,21 Dec,01 Nov - 21 Dec,23456,23456,09:00,11:35,,E75,1H35M,14,L,Skyteam_Timetable
+163,KL1442,KL1442,KL,False,,ABZ,Aberdeen,United Kingdom,AMS,Amsterdam,Netherlands,27 Dec,28 Dec,27 Dec - 28 Dec,56,56,09:00,11:35,,E75,1H35M,14,L,Skyteam_Timetable
+164,KL1442,KL1442,KL,False,,ABZ,Aberdeen,United Kingdom,AMS,Amsterdam,Netherlands,02 Jan,31 Jan,02 Jan - 31 Jan,23456,23456,09:00,11:35,,E75,1H35M,14,L,Skyteam_Timetable
+165,KL1444,KL1444,KL,False,,ABZ,Aberdeen,United Kingdom,AMS,Amsterdam,Netherlands,01 Nov,31 Dec,01 Nov - 31 Dec,1234567,1234567,10:55,13:30,,73W,1H35M,14,L,Skyteam_Timetable
+166,KL1444,KL1444,KL,False,,ABZ,Aberdeen,United Kingdom,AMS,Amsterdam,Netherlands,02 Jan,31 Jan,02 Jan - 31 Jan,1234567,1234567,10:55,13:30,,73W,1H35M,14,L,Skyteam_Timetable
+167,KL1448,KL1448,KL,False,,ABZ,Aberdeen,United Kingdom,AMS,Amsterdam,Netherlands,03 Nov,26 Jan,03 Nov - 26 Jan,7,7,17:15,19:50,,E75,1H35M,14,L,Skyteam_Timetable
+168,KL1448,KL1448,KL,False,,ABZ,Aberdeen,United Kingdom,AMS,Amsterdam,Netherlands,02 Nov,11 Dec,02 Nov - 11 Dec,3 6,36,17:20,19:55,,73W,1H35M,14,L,Skyteam_Timetable
+169,KL1448,KL1448,KL,False,,ABZ,Aberdeen,United Kingdom,AMS,Amsterdam,Netherlands,14 Dec,21 Dec,14 Dec - 21 Dec,23 6,236,17:20,19:55,,73W,1H35M,14,L,Skyteam_Timetable
+170,KL1448,KL1448,KL,False,,ABZ,Aberdeen,United Kingdom,AMS,Amsterdam,Netherlands,28 Dec,04 Jan,28 Dec - 04 Jan,3 6,36,17:20,19:55,,73W,1H35M,14,L,Skyteam_Timetable
+171,KL1448,KL1448,KL,False,,ABZ,Aberdeen,United Kingdom,AMS,Amsterdam,Netherlands,07 Jan,29 Jan,07 Jan - 29 Jan,23 6,236,17:20,19:55,,E90,1H35M,14,L,Skyteam_Timetable
+172,KL1448,KL1448,KL,False,,ABZ,Aberdeen,United Kingdom,AMS,Amsterdam,Netherlands,01 Nov,13 Dec,01 Nov - 13 Dec,2 45,245,17:25,20:00,,73W,1H35M,14,L,Skyteam_Timetable
+173,KL1448,KL1448,KL,False,,ABZ,Aberdeen,United Kingdom,AMS,Amsterdam,Netherlands,04 Nov,06 Jan,04 Nov - 06 Jan,1,1,17:25,20:00,,EQV,1H35M,14,L,Skyteam_Timetable
+174,KL1448,KL1448,KL,False,,ABZ,Aberdeen,United Kingdom,AMS,Amsterdam,Netherlands,19 Dec,03 Jan,19 Dec - 03 Jan,45,45,17:25,20:00,,73W,1H35M,14,L,Skyteam_Timetable
+175,KL1448,KL1448,KL,False,,ABZ,Aberdeen,United Kingdom,AMS,Amsterdam,Netherlands,09 Jan,31 Jan,09 Jan - 31 Jan,1 45,145,17:25,20:00,,EQV,1H35M,14,L,Skyteam_Timetable
+207,KL1441,KL1441,KL,False,,AMS,Amsterdam,Netherlands,ABZ,Aberdeen,United Kingdom,01 Nov,21 Dec,01 Nov - 21 Dec,23456,23456,08:00,08:30,,E75,1H30M,14,R,Skyteam_Timetable
+208,KL1441,KL1441,KL,False,,AMS,Amsterdam,Netherlands,ABZ,Aberdeen,United Kingdom,27 Dec,28 Dec,27 Dec - 28 Dec,56,56,08:00,08:30,,E75,1H30M,14,R,Skyteam_Timetable
+209,KL1441,KL1441,KL,False,,AMS,Amsterdam,Netherlands,ABZ,Aberdeen,United Kingdom,02 Jan,31 Jan,02 Jan - 31 Jan,23456,23456,08:00,08:30,,E75,1H30M,14,R,Skyteam_Timetable
+210,KL1443,KL1443,KL,False,,AMS,Amsterdam,Netherlands,ABZ,Aberdeen,United Kingdom,01 Nov,31 Dec,01 Nov - 31 Dec,1234567,1234567,09:45,10:15,,73W,1H30M,14,R,Skyteam_Timetable
+211,KL1443,KL1443,KL,False,,AMS,Amsterdam,Netherlands,ABZ,Aberdeen,United Kingdom,02 Jan,31 Jan,02 Jan - 31 Jan,1234567,1234567,09:45,10:15,,73W,1H30M,14,R,Skyteam_Timetable
+212,KL1447,KL1447,KL,False,,AMS,Amsterdam,Netherlands,ABZ,Aberdeen,United Kingdom,02 Nov,11 Dec,02 Nov - 11 Dec,3 6,36,16:10,16:40,,73W,1H30M,14,R,Skyteam_Timetable
+213,KL1447,KL1447,KL,False,,AMS,Amsterdam,Netherlands,ABZ,Aberdeen,United Kingdom,14 Dec,21 Dec,14 Dec - 21 Dec,23 6,236,16:10,16:40,,73W,1H30M,14,R,Skyteam_Timetable
+214,KL1447,KL1447,KL,False,,AMS,Amsterdam,Netherlands,ABZ,Aberdeen,United Kingdom,28 Dec,04 Jan,28 Dec - 04 Jan,3 6,36,16:10,16:40,,73W,1H30M,14,R,Skyteam_Timetable
+215,KL1447,KL1447,KL,False,,AMS,Amsterdam,Netherlands,ABZ,Aberdeen,United Kingdom,07 Jan,29 Jan,07 Jan - 29 Jan,23 6,236,16:10,16:40,,E90,1H30M,14,R,Skyteam_Timetable
+216,KL1447,KL1447,KL,False,,AMS,Amsterdam,Netherlands,ABZ,Aberdeen,United Kingdom,01 Nov,13 Dec,01 Nov - 13 Dec,2 45,245,16:15,16:45,,73W,1H30M,14,R,Skyteam_Timetable
+217,KL1447,KL1447,KL,False,,AMS,Amsterdam,Netherlands,ABZ,Aberdeen,United Kingdom,03 Nov,26 Jan,03 Nov - 26 Jan,7,7,16:15,16:45,,E75,1H30M,14,R,Skyteam_Timetable
+218,KL1447,KL1447,KL,False,,AMS,Amsterdam,Netherlands,ABZ,Aberdeen,United Kingdom,19 Dec,03 Jan,19 Dec - 03 Jan,45,45,16:15,16:45,,73W,1H30M,14,R,Skyteam_Timetable
+219,KL1447,KL1447,KL,False,,AMS,Amsterdam,Netherlands,ABZ,Aberdeen,United Kingdom,09 Jan,31 Jan,09 Jan - 31 Jan,45,45,16:15,16:45,,E90,1H30M,14,R,Skyteam_Timetable
+220,KL1447,KL1447,KL,False,,AMS,Amsterdam,Netherlands,ABZ,Aberdeen,United Kingdom,04 Nov,27 Jan,04 Nov - 27 Jan,1,1,16:25,16:55,,EQV,1H30M,14,R,Skyteam_Timetable
+221,KL1451,KL1451,KL,False,,AMS,Amsterdam,Netherlands,ABZ,Aberdeen,United Kingdom,01 Nov,31 Jan,01 Nov - 31 Jan,1234567,1234567,21:20,21:50,,73W,1H30M,14,R,Skyteam_Timetable
+461,AF1473,AF1473*,AF,True,HOP!,ABZ,Aberdeen,United Kingdom,CDG,Paris,France,01 Nov,24 Dec,01 Nov - 24 Dec,1234567,1234567,06:05,09:10,,EQV,2H5M,22,L,Skyteam_Timetable
+462,KQ3747,KQ3747*,KQ,True,Air France,ABZ,Aberdeen,United Kingdom,CDG,Paris,France,01 Nov,24 Dec,01 Nov - 24 Dec,1234567,1234567,06:05,09:10,,EQV,2H5M,22,L,Skyteam_Timetable
+463,AF1473,AF1473*,AF,True,HOP!,ABZ,Aberdeen,United Kingdom,CDG,Paris,France,26 Dec,07 Jan,26 Dec - 07 Jan,12 4567,124567,06:05,09:10,,EQV,2H5M,22,L,Skyteam_Timetable
+464,KQ3747,KQ3747*,KQ,True,Air France,ABZ,Aberdeen,United Kingdom,CDG,Paris,France,26 Dec,07 Jan,26 Dec - 07 Jan,12 4567,124567,06:05,09:10,,EQV,2H5M,22,L,Skyteam_Timetable
+465,AF1473,AF1473*,AF,True,HOP!,ABZ,Aberdeen,United Kingdom,CDG,Paris,France,08 Jan,31 Jan,08 Jan - 31 Jan,1234567,1234567,06:05,09:10,,EQV,2H5M,22,L,Skyteam_Timetable
+466,KQ3747,KQ3747*,KQ,True,Air France,ABZ,Aberdeen,United Kingdom,CDG,Paris,France,08 Jan,31 Jan,08 Jan - 31 Jan,1234567,1234567,06:05,09:10,,EQV,2H5M,22,L,Skyteam_Timetable
+467,AF1273,AF1273*,AF,True,HOP!,ABZ,Aberdeen,United Kingdom,CDG,Paris,France,01 Nov,05 Nov,01 Nov - 05 Nov,12 567,12567,11:30,14:35,,EQV,2H5M,22,L,Skyteam_Timetable
+468,KQ3749,KQ3749*,KQ,True,Air France,ABZ,Aberdeen,United Kingdom,CDG,Paris,France,01 Nov,05 Nov,01 Nov - 05 Nov,12 567,12567,11:30,14:35,,EQV,2H5M,22,L,Skyteam_Timetable
+469,AF1273,AF1273*,AF,True,HOP!,ABZ,Aberdeen,United Kingdom,CDG,Paris,France,07 Nov,31 Jan,07 Nov - 31 Jan,1234567,1234567,11:30,14:35,,EQV,2H5M,22,L,Skyteam_Timetable
+470,KQ3749,KQ3749*,KQ,True,Air France,ABZ,Aberdeen,United Kingdom,CDG,Paris,France,07 Nov,31 Jan,07 Nov - 31 Jan,1234567,1234567,11:30,14:35,,EQV,2H5M,22,L,Skyteam_Timetable
+487,AF1272,AF1272*,AF,True,HOP!,CDG,Paris,France,ABZ,Aberdeen,United Kingdom,01 Nov,05 Nov,01 Nov - 05 Nov,12 567,12567,09:45,10:50,,EQV,2H5M,22,R,Skyteam_Timetable
+488,KQ3742,KQ3742*,KQ,True,Air France,CDG,Paris,France,ABZ,Aberdeen,United Kingdom,01 Nov,05 Nov,01 Nov - 05 Nov,12 567,12567,09:45,10:50,,EQV,2H5M,22,R,Skyteam_Timetable
+489,AF1272,AF1272*,AF,True,HOP!,CDG,Paris,France,ABZ,Aberdeen,United Kingdom,07 Nov,31 Jan,07 Nov - 31 Jan,1234567,1234567,09:45,10:50,,EQV,2H5M,22,R,Skyteam_Timetable
+490,KQ3742,KQ3742*,KQ,True,Air France,CDG,Paris,France,ABZ,Aberdeen,United Kingdom,07 Nov,31 Jan,07 Nov - 31 Jan,1234567,1234567,09:45,10:50,,EQV,2H5M,22,R,Skyteam_Timetable
+491,AF1472,AF1472*,AF,True,HOP!,CDG,Paris,France,ABZ,Aberdeen,United Kingdom,01 Nov,23 Dec,01 Nov - 23 Dec,1234567,1234567,20:15,21:10,,EQV,1H55M,22,R,Skyteam_Timetable
+492,AF1472,AF1472*,AF,True,HOP!,CDG,Paris,France,ABZ,Aberdeen,United Kingdom,25 Dec,06 Jan,25 Dec - 06 Jan,1 34567,134567,20:15,21:10,,EQV,1H55M,22,R,Skyteam_Timetable
+493,AF1472,AF1472*,AF,True,HOP!,CDG,Paris,France,ABZ,Aberdeen,United Kingdom,07 Jan,31 Jan,07 Jan - 31 Jan,1234567,1234567,20:15,21:10,,EQV,1H55M,22,R,Skyteam_Timetable
+494,KQ3744,KQ3744*,KQ,True,Air France,CDG,Paris,France,ABZ,Aberdeen,United Kingdom,01 Nov,23 Dec,01 Nov - 23 Dec,1234567,1234567,20:20,21:15,,EQV,1H55M,22,R,Skyteam_Timetable
+495,KQ3744,KQ3744*,KQ,True,Air France,CDG,Paris,France,ABZ,Aberdeen,United Kingdom,25 Dec,06 Jan,25 Dec - 06 Jan,1 34567,134567,20:20,21:15,,EQV,1H55M,22,R,Skyteam_Timetable
+496,KQ3744,KQ3744*,KQ,True,Air France,CDG,Paris,France,ABZ,Aberdeen,United Kingdom,07 Jan,31 Jan,07 Jan - 31 Jan,1234567,1234567,20:20,21:15,,EQV,1H55M,22,R,Skyteam_Timetable
+656,KQ3744,KQ3744*,KQ,True,Air France,CDG,Paris,France,ABZ,Aberdeen,United Kingdom,01 Nov,23 Dec,01 Nov - 23 Dec,1234567,1234567,20:15,21:10,,EQV,1H55M,25,R,Skyteam_Timetable
+658,KQ3744,KQ3744*,KQ,True,Air France,CDG,Paris,France,ABZ,Aberdeen,United Kingdom,25 Dec,06 Jan,25 Dec - 06 Jan,1 34567,134567,20:15,21:10,,EQV,1H55M,25,R,Skyteam_Timetable
+660,KQ3744,KQ3744*,KQ,True,Air France,CDG,Paris,France,ABZ,Aberdeen,United Kingdom,07 Jan,31 Jan,07 Jan - 31 Jan,1234567,1234567,20:15,21:10,,EQV,1H55M,25,R,Skyteam_Timetable
+661,DL7365,DL7365,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,01 Nov,02 Nov,01 Nov - 02 Nov,56,56,05:00,06:20,,CRJ,1H20M,26,L,Skyteam_Timetable
+662,DL7365,DL7365,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,03 Nov,03 Nov,03 Nov - 03 Nov,7,7,05:00,06:17,,CRJ,1H17M,26,L,Skyteam_Timetable
+663,DL7365,DL7365,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,04 Nov,26 Nov,04 Nov - 26 Nov,1234567,1234567,05:00,06:20,,CRJ,1H20M,26,L,Skyteam_Timetable
+664,DL7365,DL7365,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,27 Nov,21 Dec,27 Nov - 21 Dec,123456,123456,05:00,06:25,,CRJ,1H25M,26,L,Skyteam_Timetable
+665,DL7365,DL7365,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,01 Dec,15 Dec,01 Dec - 15 Dec,7,7,05:00,06:24,,CRJ,1H24M,26,L,Skyteam_Timetable
+666,DL7365,DL7365,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,22 Dec,05 Jan,22 Dec - 05 Jan,12 4567,124567,05:00,06:20,,CRJ,1H20M,26,L,Skyteam_Timetable
+667,DL7365,DL7365,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,06 Jan,31 Jan,06 Jan - 31 Jan,123456,123456,05:00,06:29,,CRJ,1H29M,26,L,Skyteam_Timetable
+668,DL7365,DL7365,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,12 Jan,26 Jan,12 Jan - 26 Jan,7,7,05:00,06:20,,CRJ,1H20M,26,L,Skyteam_Timetable
+669,DL7365,DL7365,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,25 Dec,01 Jan,25 Dec - 01 Jan,3,3,06:45,08:06,,CRJ,1H21M,26,L,Skyteam_Timetable
+670,DL7363,DL7363,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,04 Nov,18 Nov,04 Nov - 18 Nov,123456,123456,13:10,14:26,,CRJ,1H16M,26,L,Skyteam_Timetable
+671,DL7363,DL7363,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,10 Nov,17 Nov,10 Nov - 17 Nov,7,7,13:10,14:25,,CRJ,1H15M,26,L,Skyteam_Timetable
+672,DL7363,DL7363,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,19 Nov,26 Nov,19 Nov - 26 Nov,1234 7,12347,13:10,14:26,,CRJ,1H16M,26,L,Skyteam_Timetable
+673,DL7363,DL7363,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,23 Nov,23 Nov,23 Nov - 23 Nov,6,6,13:10,14:25,,CRJ,1H15M,26,L,Skyteam_Timetable
+674,DL7363,DL7363,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,05 Jan,26 Jan,05 Jan - 26 Jan,7,7,13:10,14:25,,CRJ,1H15M,26,L,Skyteam_Timetable
+675,DL7363,DL7363,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,01 Nov,02 Nov,01 Nov - 02 Nov,56,56,13:15,14:29,,CRJ,1H14M,26,L,Skyteam_Timetable
+676,DL7363,DL7363,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,03 Nov,03 Nov,03 Nov - 03 Nov,7,7,13:15,14:27,,CRJ,1H12M,26,L,Skyteam_Timetable
+677,DL7363,DL7363,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,22 Dec,04 Jan,22 Dec - 04 Jan,1 4567,14567,13:15,14:34,,CRJ,1H19M,26,L,Skyteam_Timetable
+678,DL7363,DL7363,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,24 Dec,01 Jan,24 Dec - 01 Jan,23,23,13:15,14:32,,CRJ,1H17M,26,L,Skyteam_Timetable
+679,DL7363,DL7363,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,27 Nov,21 Dec,27 Nov - 21 Dec,123456,123456,13:18,14:37,,CRJ,1H19M,26,L,Skyteam_Timetable
+680,DL7363,DL7363,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,01 Dec,15 Dec,01 Dec - 15 Dec,7,7,13:18,14:35,,CRJ,1H17M,26,L,Skyteam_Timetable
+681,DL7363,DL7363,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,06 Jan,31 Jan,06 Jan - 31 Jan,123456,123456,13:21,14:36,,CRJ,1H15M,26,L,Skyteam_Timetable
+682,DL7381,DL7381,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,01 Nov,02 Nov,01 Nov - 02 Nov,56,56,15:35,16:48,,CRJ,1H13M,26,L,Skyteam_Timetable
+683,DL4323,DL4323,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,05 Nov,16 Nov,05 Nov - 16 Nov,2 56,256,15:35,16:54,,CRJ,1H19M,26,L,Skyteam_Timetable
+684,DL4323,DL4323,DL,False,,ABR,Aberdeen SD,United States of America,MSP,Minneapolis/St Paul MN,United States of America,21 Nov,25 Nov,21 Nov - 25 Nov,1 4,14,15:35,16:54,,CRJ,1H19M,26,L,Skyteam_Timetable
+707,DL7363,DL7363,DL,False,,MSP,Minneapolis/St Paul MN,United States of America,ABR,Aberdeen SD,United States of America,22 Dec,04 Jan,22 Dec - 04 Jan,1 4567,14567,11:21,12:49,,CRJ,1H28M,26,R,Skyteam_Timetable
+708,DL7363,DL7363,DL,False,,MSP,Minneapolis/St Paul MN,United States of America,ABR,Aberdeen SD,United States of America,24 Dec,01 Jan,24 Dec - 01 Jan,23,23,11:21,12:43,,CRJ,1H22M,26,R,Skyteam_Timetable
+709,DL7363,DL7363,DL,False,,MSP,Minneapolis/St Paul MN,United States of America,ABR,Aberdeen SD,United States of America,04 Nov,18 Nov,04 Nov - 18 Nov,123456,123456,11:25,12:42,,CRJ,1H17M,26,R,Skyteam_Timetable
+710,DL7363,DL7363,DL,False,,MSP,Minneapolis/St Paul MN,United States of America,ABR,Aberdeen SD,United States of America,10 Nov,17 Nov,10 Nov - 17 Nov,7,7,11:25,12:39,,CRJ,1H14M,26,R,Skyteam_Timetable

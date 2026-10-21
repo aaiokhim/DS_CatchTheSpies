@@ -1,0 +1,101 @@
+source,source_record_id,user_uid,card_type_raw,loyalty_id_raw,loyalty_id_normalized,loyalty_program_code,loyalty_number,bonus_program_raw,activities_count
+PointzAggregator,pz_card_1,613142142,Airlines,FB 171388778,FB 171388778,FB,171388778,Flying Blue,2
+PointzAggregator,pz_card_2,103197717,Airlines,KE 696768759,KE 696768759,KE,696768759,Korean Air SKYPASS,4
+PointzAggregator,pz_card_3,138879468,Airlines,DT 980250352,DT 980250352,DT,980250352,Delta SkyMiles,4
+PointzAggregator,pz_card_4,138879468,Airlines,SU 510085965,SU 510085965,SU,510085965,Aeroflot Bonus,9
+PointzAggregator,pz_card_5,138879468,Airlines,FB 650748133,FB 650748133,FB,650748133,Flying Blue,1
+PointzAggregator,pz_card_6,138879468,Airlines,KE 885948676,KE 885948676,KE,885948676,Korean Air SKYPASS,6
+PointzAggregator,pz_card_7,197093494,Airlines,KE 868519522,KE 868519522,KE,868519522,Korean Air SKYPASS,2
+PointzAggregator,pz_card_8,513348472,Airlines,KE 172720439,KE 172720439,KE,172720439,Korean Air SKYPASS,7
+PointzAggregator,pz_card_9,799189157,Airlines,KE 742256551,KE 742256551,KE,742256551,Korean Air SKYPASS,4
+PointzAggregator,pz_card_10,722136026,Airlines,KE 449972531,KE 449972531,KE,449972531,Korean Air SKYPASS,5
+PointzAggregator,pz_card_11,722136026,Airlines,FB 226558324,FB 226558324,FB,226558324,Flying Blue,3
+PointzAggregator,pz_card_12,583749862,Airlines,FB 354295580,FB 354295580,FB,354295580,Flying Blue,5
+PointzAggregator,pz_card_13,485707226,Airlines,SU 280115567,SU 280115567,SU,280115567,Aeroflot Bonus,6
+PointzAggregator,pz_card_14,101802257,Airlines,DT 35281046,DT 35281046,DT,35281046,Delta SkyMiles,8
+PointzAggregator,pz_card_15,842868860,Airlines,KE 9213323,KE 9213323,KE,9213323,Korean Air SKYPASS,7
+PointzAggregator,pz_card_16,206825138,Airlines,DT 437327368,DT 437327368,DT,437327368,Delta SkyMiles,4
+PointzAggregator,pz_card_17,206825138,Airlines,KE 985948315,KE 985948315,KE,985948315,Korean Air SKYPASS,2
+PointzAggregator,pz_card_18,206825138,Airlines,SU 638306630,SU 638306630,SU,638306630,Aeroflot Bonus,4
+PointzAggregator,pz_card_19,206825138,Airlines,FB 351327051,FB 351327051,FB,351327051,Flying Blue,4
+PointzAggregator,pz_card_20,596887906,Airlines,KE 859344625,KE 859344625,KE,859344625,Korean Air SKYPASS,3
+PointzAggregator,pz_card_21,596887906,Airlines,SU 619376868,SU 619376868,SU,619376868,Aeroflot Bonus,3
+PointzAggregator,pz_card_22,821524131,Airlines,KE 954624344,KE 954624344,KE,954624344,Korean Air SKYPASS,4
+PointzAggregator,pz_card_23,462387970,Airlines,KE 878099727,KE 878099727,KE,878099727,Korean Air SKYPASS,2
+PointzAggregator,pz_card_24,931638134,Airlines,KE 660749102,KE 660749102,KE,660749102,Korean Air SKYPASS,3
+PointzAggregator,pz_card_25,931638134,Airlines,DT 193487414,DT 193487414,DT,193487414,Delta SkyMiles,2
+PointzAggregator,pz_card_26,709284851,Airlines,KE 535431141,KE 535431141,KE,535431141,Korean Air SKYPASS,4
+PointzAggregator,pz_card_27,410476676,Airlines,DT 893505553,DT 893505553,DT,893505553,Delta SkyMiles,5
+PointzAggregator,pz_card_28,410476676,Airlines,SU 421296255,SU 421296255,SU,421296255,Aeroflot Bonus,6
+PointzAggregator,pz_card_29,410476676,Airlines,KE 526467478,KE 526467478,KE,526467478,Korean Air SKYPASS,6
+PointzAggregator,pz_card_30,410476676,Airlines,FB 852808171,FB 852808171,FB,852808171,Flying Blue,6
+PointzAggregator,pz_card_31,879092492,Airlines,DT 824820050,DT 824820050,DT,824820050,Delta SkyMiles,4
+PointzAggregator,pz_card_32,559778149,Airlines,SU 367599177,SU 367599177,SU,367599177,Aeroflot Bonus,7
+PointzAggregator,pz_card_33,559778149,Airlines,FB 418236934,FB 418236934,FB,418236934,Flying Blue,5
+PointzAggregator,pz_card_34,630198209,Airlines,KE 437738745,KE 437738745,KE,437738745,Korean Air SKYPASS,8
+PointzAggregator,pz_card_35,790757473,Airlines,KE 416929106,KE 416929106,KE,416929106,Korean Air SKYPASS,4
+PointzAggregator,pz_card_36,461802708,Airlines,SU 979571303,SU 979571303,SU,979571303,Aeroflot Bonus,3
+PointzAggregator,pz_card_37,114176298,Airlines,SU 92030464,SU 92030464,SU,92030464,Aeroflot Bonus,4
+PointzAggregator,pz_card_38,114176298,Airlines,KE 984801165,KE 984801165,KE,984801165,Korean Air SKYPASS,10
+PointzAggregator,pz_card_39,297828098,Airlines,KE 798246307,KE 798246307,KE,798246307,Korean Air SKYPASS,3
+PointzAggregator,pz_card_40,561275011,Airlines,DT 75584185,DT 75584185,DT,75584185,Delta SkyMiles,6
+PointzAggregator,pz_card_41,561275011,Airlines,FB 714728767,FB 714728767,FB,714728767,Flying Blue,6
+PointzAggregator,pz_card_42,126943294,Airlines,FB 103409812,FB 103409812,FB,103409812,Flying Blue,3
+PointzAggregator,pz_card_43,343254686,Airlines,SU 562502840,SU 562502840,SU,562502840,Aeroflot Bonus,6
+PointzAggregator,pz_card_44,292935386,Airlines,SU 168198778,SU 168198778,SU,168198778,Aeroflot Bonus,6
+PointzAggregator,pz_card_45,292935386,Airlines,DT 334973366,DT 334973366,DT,334973366,Delta SkyMiles,7
+PointzAggregator,pz_card_46,292935386,Airlines,FB 857327857,FB 857327857,FB,857327857,Flying Blue,5
+PointzAggregator,pz_card_47,535566462,Airlines,SU 182717048,SU 182717048,SU,182717048,Aeroflot Bonus,2
+PointzAggregator,pz_card_48,954941584,Airlines,DT 563545248,DT 563545248,DT,563545248,Delta SkyMiles,6
+PointzAggregator,pz_card_49,304952197,Airlines,SU 506251069,SU 506251069,SU,506251069,Aeroflot Bonus,2
+PointzAggregator,pz_card_50,597712436,Airlines,FB 809531595,FB 809531595,FB,809531595,Flying Blue,5
+PointzAggregator,pz_card_51,503124362,Airlines,DT 755962360,DT 755962360,DT,755962360,Delta SkyMiles,6
+PointzAggregator,pz_card_52,842527486,Airlines,SU 970422326,SU 970422326,SU,970422326,Aeroflot Bonus,3
+PointzAggregator,pz_card_53,531450319,Airlines,DT 635057017,DT 635057017,DT,635057017,Delta SkyMiles,6
+PointzAggregator,pz_card_54,878350702,Airlines,SU 52846911,SU 52846911,SU,52846911,Aeroflot Bonus,3
+PointzAggregator,pz_card_55,878350702,Airlines,DT 819269742,DT 819269742,DT,819269742,Delta SkyMiles,4
+PointzAggregator,pz_card_56,880438668,Airlines,KE 413433872,KE 413433872,KE,413433872,Korean Air SKYPASS,7
+PointzAggregator,pz_card_57,880438668,Airlines,SU 261562258,SU 261562258,SU,261562258,Aeroflot Bonus,4
+PointzAggregator,pz_card_58,540603859,Airlines,FB 440492050,FB 440492050,FB,440492050,Flying Blue,3
+PointzAggregator,pz_card_59,432168952,Airlines,KE 273989490,KE 273989490,KE,273989490,Korean Air SKYPASS,7
+PointzAggregator,pz_card_60,432168952,Airlines,FB 964750962,FB 964750962,FB,964750962,Flying Blue,2
+PointzAggregator,pz_card_61,964841142,Airlines,DT 624269791,DT 624269791,DT,624269791,Delta SkyMiles,7
+PointzAggregator,pz_card_62,964841142,Airlines,KE 21387458,KE 21387458,KE,21387458,Korean Air SKYPASS,5
+PointzAggregator,pz_card_63,964841142,Airlines,FB 46560495,FB 46560495,FB,46560495,Flying Blue,4
+PointzAggregator,pz_card_64,339247779,Airlines,SU 543977589,SU 543977589,SU,543977589,Aeroflot Bonus,8
+PointzAggregator,pz_card_65,716456887,Airlines,SU 858915177,SU 858915177,SU,858915177,Aeroflot Bonus,7
+PointzAggregator,pz_card_66,635360392,Airlines,SU 372467962,SU 372467962,SU,372467962,Aeroflot Bonus,8
+PointzAggregator,pz_card_67,156258314,Airlines,KE 376173350,KE 376173350,KE,376173350,Korean Air SKYPASS,5
+PointzAggregator,pz_card_68,156258314,Airlines,SU 135697541,SU 135697541,SU,135697541,Aeroflot Bonus,9
+PointzAggregator,pz_card_69,341375924,Airlines,FB 998171833,FB 998171833,FB,998171833,Flying Blue,5
+PointzAggregator,pz_card_70,178079450,Airlines,KE 923991174,KE 923991174,KE,923991174,Korean Air SKYPASS,4
+PointzAggregator,pz_card_71,373766218,Airlines,SU 727370762,SU 727370762,SU,727370762,Aeroflot Bonus,6
+PointzAggregator,pz_card_72,918999683,Airlines,KE 694992264,KE 694992264,KE,694992264,Korean Air SKYPASS,6
+PointzAggregator,pz_card_73,854234087,Airlines,KE 363817898,KE 363817898,KE,363817898,Korean Air SKYPASS,5
+PointzAggregator,pz_card_74,854234087,Airlines,SU 380178518,SU 380178518,SU,380178518,Aeroflot Bonus,3
+PointzAggregator,pz_card_75,975843716,Airlines,KE 890236936,KE 890236936,KE,890236936,Korean Air SKYPASS,7
+PointzAggregator,pz_card_76,399596445,Airlines,SU 127107966,SU 127107966,SU,127107966,Aeroflot Bonus,8
+PointzAggregator,pz_card_77,253509308,Airlines,DT 158807859,DT 158807859,DT,158807859,Delta SkyMiles,5
+PointzAggregator,pz_card_78,496507546,Airlines,SU 389603124,SU 389603124,SU,389603124,Aeroflot Bonus,5
+PointzAggregator,pz_card_79,496507546,Airlines,DT 139769683,DT 139769683,DT,139769683,Delta SkyMiles,4
+PointzAggregator,pz_card_80,183269144,Airlines,SU 1413795,SU 1413795,SU,1413795,Aeroflot Bonus,6
+PointzAggregator,pz_card_81,419424304,Airlines,SU 845480138,SU 845480138,SU,845480138,Aeroflot Bonus,5
+PointzAggregator,pz_card_82,865893549,Airlines,SU 152374548,SU 152374548,SU,152374548,Aeroflot Bonus,4
+PointzAggregator,pz_card_83,434895559,Airlines,KE 290470816,KE 290470816,KE,290470816,Korean Air SKYPASS,4
+PointzAggregator,pz_card_84,434895559,Airlines,DT 578325598,DT 578325598,DT,578325598,Delta SkyMiles,6
+PointzAggregator,pz_card_85,434895559,Airlines,SU 693261281,SU 693261281,SU,693261281,Aeroflot Bonus,4
+PointzAggregator,pz_card_86,434895559,Airlines,FB 99133280,FB 99133280,FB,99133280,Flying Blue,6
+PointzAggregator,pz_card_87,636538294,Airlines,FB 653692654,FB 653692654,FB,653692654,Flying Blue,2
+PointzAggregator,pz_card_88,378911968,Airlines,KE 692152259,KE 692152259,KE,692152259,Korean Air SKYPASS,5
+PointzAggregator,pz_card_89,378911968,Airlines,FB 151058871,FB 151058871,FB,151058871,Flying Blue,6
+PointzAggregator,pz_card_90,378911968,Airlines,SU 396534457,SU 396534457,SU,396534457,Aeroflot Bonus,1
+PointzAggregator,pz_card_91,753550527,Airlines,KE 571825467,KE 571825467,KE,571825467,Korean Air SKYPASS,2
+PointzAggregator,pz_card_92,798564865,Airlines,KE 362723148,KE 362723148,KE,362723148,Korean Air SKYPASS,5
+PointzAggregator,pz_card_93,314630655,Airlines,DT 197061795,DT 197061795,DT,197061795,Delta SkyMiles,4
+PointzAggregator,pz_card_94,314630655,Airlines,SU 450121678,SU 450121678,SU,450121678,Aeroflot Bonus,9
+PointzAggregator,pz_card_95,478002510,Airlines,DT 23130085,DT 23130085,DT,23130085,Delta SkyMiles,5
+PointzAggregator,pz_card_96,280911351,Airlines,DT 990517801,DT 990517801,DT,990517801,Delta SkyMiles,4
+PointzAggregator,pz_card_97,754813328,Airlines,SU 916224857,SU 916224857,SU,916224857,Aeroflot Bonus,3
+PointzAggregator,pz_card_98,337592883,Airlines,SU 993572534,SU 993572534,SU,993572534,Aeroflot Bonus,7
+PointzAggregator,pz_card_99,786449645,Airlines,SU 918144754,SU 918144754,SU,918144754,Aeroflot Bonus,6
+PointzAggregator,pz_card_100,786449645,Airlines,DT 764469529,DT 764469529,DT,764469529,Delta SkyMiles,5

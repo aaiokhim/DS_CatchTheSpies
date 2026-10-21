@@ -1,0 +1,26 @@
+source,source_record_id,source_person_id,full_name_raw,first_name_raw,middle_name_raw,last_name_raw,title,sex,birth_date,document,loyalty_ids,pnr,e_ticket
+forum,forum:0,0,,,,,,Male,,,KE 889215424; DT 484697244,,
+forum,forum:1,1,,NAZAR,,ZYKOV,,Male,,,SU 658121632; DT 356246372; KE 388423193,,
+forum,forum:2,2,,,,,,,,,SU 224950608,,
+forum,forum:3,3,,,,,,,,,FB 436692325,,
+forum,forum:4,4,,RUSLAN,,D'YAKOV,,Male,,,SU 525500144; KE 629925275; DT 479114128; FB 629903943,,
+boarding_data,boarding:0,,,SAVELII,VIKTOROVICH,RUSANOV,,Male,1983-03-10,2879096860,,FRNINO,6625956945991971
+boarding_data,boarding:1,,,LEV,MARKOVICH,ISAEV,,Male,1975-12-13,1788173211,,,1643715499224676
+boarding_data,boarding:2,,,NIKOLAI,I.,NIKOLSKII,,Male,1990-12-26,4396926588,,VWNYGF,6247422701565929
+boarding_data,boarding:3,,,ANATOLII,PETROVICH,SHILOV,,Male,1997-05-24,2595919752,,WQFFUE,
+boarding_data,boarding:4,,,MIROSLAVA,VIACHESLAVOVNA,SEMENOVA,,Female,1976-01-31,6775516990,,,
+sirena,sirena:0,,ОЗЕРОВ ИЛЬДАР ДАНИИЛОВИЧ,,,,,,1999-05-15,9375053270,SU 38116280,ZBQSPY,7360415302044672
+sirena,sirena:1,,КОЛОСОВ САМИР ТАМЕРЛАНОВИЧ,,,,,,,2244645520,FB 284903754,MHPBBX,7398421117936516
+sirena,sirena:2,,ИГНАТОВА СНЕЖАНА КОНСТАНТИНОВНА,,,,,,,8115961316,,REDLVB,5174973140468001
+sirena,sirena:3,,ЖАРОВ ПЛАТОН АЛЬБЕРТОВИЧ,,,,,,1999-05-02,986865148,FB 884556993,NSJNGQ,5274206497242737
+sirena,sirena:4,,НИКОЛЬСКИЙ НИКОЛАЙ ИГОРЕВИЧ,,,,,,1990-12-26,4396926588,SU 183142068,VWNYGF,6247422701565929
+boarding_passes,bp:0,,LIDIYA ZHDANOVA,,,,MRS,,,,,DYELAO,7100246988860481
+boarding_passes,bp:1,,SVIATOSLAV SOKOLOV,,,,MR,,,,,JWARRD,7608904175905333
+boarding_passes,bp:2,,SVIATOSLAV SUKHANOV,,,,MR,,,,,SETJJH,0527257587351371
+boarding_passes,bp:3,,DENIS ZELENIN,,,,MR,,,,,MZZNJI,3696048365585673
+boarding_passes,bp:4,,OSTROVSKAYA IRINA,,,,MRS,,,,,NJNNPC,7470610229847684
+pointz,pz_user_1,613142142,IAROMIR ZVEREV,IAROMIR,,ZVEREV,,,,,FB 171388778,,
+pointz,pz_user_2,103197717,VITALINA KOROVINA,VITALINA,,KOROVINA,,,,,KE 696768759,,
+pointz,pz_user_3,138879468,DANIL VAVILOV,DANIL,,VAVILOV,,,,,DT 980250352; SU 510085965; FB 650748133; KE 885948676,,
+pointz,pz_user_4,201647942,ZAKHAR KUROCHKIN,ZAKHAR,,KUROCHKIN,,,,,,,
+pointz,pz_user_5,197093494,AMIR LOPATIN,AMIR,,LOPATIN,,,,,KE 868519522,,

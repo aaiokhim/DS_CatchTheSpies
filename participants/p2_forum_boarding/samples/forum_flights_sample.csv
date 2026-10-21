@@ -1,0 +1,21 @@
+profile_id,flight_seq,date,flight_number,codeshare,origin,origin_city,origin_country_raw,destination,destination_city,destination_country_raw,source,source_record_id
+0,0,2017-03-04,DL3377,False,BOS,Boston MA,United States of,PIT,Pittsburgh PA,United States of,forum,forum:0:0
+0,1,2017-07-21,DL3630,False,GRB,Green Bay WI,United States of,DTW,Detroit MI,United States of,forum,forum:0:1
+0,2,2017-03-22,DL5361,False,PIT,Pittsburgh PA,United States of,LGA,New York NY,United States of,forum,forum:0:2
+0,3,2017-01-04,SU3702,True,SVO,Moscow,Russian Federation,WAW,Warsaw,Poland,forum,forum:0:3
+0,4,2017-08-08,DL3412,False,XNA,Fayetteville AR,United States of,ATL,Atlanta GA,United States of,forum,forum:0:4
+0,5,2017-08-30,DL659,False,ATL,Atlanta GA,United States of,FLL,Fort Lauderdale FL,United States,forum,forum:0:5
+0,6,2017-06-10,DL5032,False,ILM,Wilmington NC,United States of,ATL,Atlanta GA,United States of,forum,forum:0:6
+0,7,2017-11-10,DL3363,False,ATL,Atlanta GA,United States of,OAJ,Jacksonville NC,United States of,forum,forum:0:7
+0,8,2017-12-14,DL1364,False,ATL,Atlanta GA,United States of,SMF,Sacramento CA,United States of,forum,forum:0:8
+0,9,2017-02-27,AF3616,True,CDG,Paris,France,BOS,Boston MA,United States of,forum,forum:0:9
+0,10,2017-07-30,DL3598,False,DTW,Detroit MI,United States of,EVV,Evansville IN,United States of,forum,forum:0:10
+0,11,2017-10-15,DL1726,False,FLL,Fort Lauderdale FL,United States,ATL,Atlanta GA,United States of,forum,forum:0:11
+0,12,2017-05-26,DL5435,False,ATL,Atlanta GA,United States of,ILM,Wilmington NC,United States of,forum,forum:0:12
+0,13,2017-08-03,DL5558,False,ATL,Atlanta GA,United States of,XNA,Fayetteville AR,United States of,forum,forum:0:13
+0,14,2017-02-04,AF1247,False,WAW,Warsaw,Poland,CDG,Paris,France,forum,forum:0:14
+0,15,2017-11-14,DL3481,False,OAJ,Jacksonville NC,United States of,ATL,Atlanta GA,United States of,forum,forum:0:15
+0,16,2017-03-31,DL5498,False,LGA,New York NY,United States of,BHM,Birmingham AI,United States of,forum,forum:0:16
+0,17,2017-08-01,DL5379,False,EVV,Evansville IN,United States of,ATL,Atlanta GA,United States of,forum,forum:0:17
+0,18,2017-07-14,DL3339,False,SHV,Shreveport LA,United States of,ATL,Atlanta GA,United States of,forum,forum:0:18
+0,19,2017-04-01,DL2596,False,BHM,Birmingham AI,United States of,ATL,Atlanta GA,United States of,forum,forum:0:19

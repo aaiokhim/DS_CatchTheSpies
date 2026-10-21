@@ -1,0 +1,31 @@
+source,source_record_id,passenger_record_id,flight_number,flight_date,departure_time,arrival_date,arrival_time,origin_airport_raw,origin_airport,destination_airport_raw,destination_airport,is_suspicious_airport,origin_city,destination_city,codeshare,booking_class,fare_code,loyalty_id,document,pnr,e_ticket,baggage_raw
+forum,forum:0:0,forum:0,DL3377,2017-03-04,,,,BOS,BOS,PIT,PIT,False,BOSTON MA,PITTSBURGH PA,False,,,,,,,
+forum,forum:0:1,forum:0,DL3630,2017-07-21,,,,GRB,GRB,DTW,DTW,False,GREEN BAY WI,DETROIT MI,False,,,,,,,
+forum,forum:0:2,forum:0,DL5361,2017-03-22,,,,PIT,PIT,LGA,LGA,False,PITTSBURGH PA,NEW YORK NY,False,,,,,,,
+forum,forum:0:3,forum:0,SU3702,2017-01-04,,,,SVO,SVO,WAW,WAW,False,MOSCOW,WARSAW,True,,,,,,,
+forum,forum:0:4,forum:0,DL3412,2017-08-08,,,,XNA,XNA,ATL,ATL,False,FAYETTEVILLE AR,ATLANTA GA,False,,,,,,,
+boarding_data,boarding:0,boarding:0,SU1369,2017-03-22,06:05,,,,,,,,,MOSCOW,False,,,,2879096860,FRNINO,6625956945991971,Transit
+boarding_data,boarding:1,boarding:1,SU1180,2017-03-18,22:10,,,,,,,,,VOLGOGRAD,False,,,,1788173211,,1643715499224676,Registered
+boarding_data,boarding:2,boarding:2,SU1180,2017-03-18,22:10,,,,,,,,,VOLGOGRAD,False,,,,4396926588,VWNYGF,6247422701565929,Transit
+boarding_data,boarding:3,boarding:3,SU1180,2017-03-18,22:10,,,,,,,,,VOLGOGRAD,False,,,,2595919752,WQFFUE,,Registered
+boarding_data,boarding:4,boarding:4,SU6284,2017-03-12,11:45,,,,,,,,,MOSCOW,False,,,,6775516990,,,Registered
+sirena,sirena:0,sirena:0,SU1306,2017-05-30,00:05,2017-05-30,08:05,SVO,SVO,OVB,OVB,False,,,False,J,JGRPGN,SU 38116280,9375053270,ZBQSPY,7360415302044672,0PC
+sirena,sirena:1,sirena:1,SU1323,2017-12-27,02:15,2017-12-27,04:40,MMK,MMK,SVO,SVO,False,,,False,Y,YRSTUQ,FB 284903754,2244645520,MHPBBX,7398421117936516,
+sirena,sirena:2,sirena:2,SU1481,2017-09-19,06:40,2017-09-19,07:45,KJA,KJA,SVO,SVO,False,,,False,Y,YSTNJL,,8115961316,REDLVB,5174973140468001,
+sirena,sirena:3,sirena:3,SU1180,2017-03-18,22:10,2017-03-19,01:05,SVO,SVO,VOG,VOG,False,,,False,J,JFLXLS,FB 884556993,986865148,NSJNGQ,5274206497242737,0PC
+sirena,sirena:4,sirena:4,SU1180,2017-03-18,22:10,2017-03-19,01:05,SVO,SVO,VOG,VOG,False,,,False,Y,YFLXPG,SU 183142068,4396926588,VWNYGF,6247422701565929,
+boarding_passes,bp:0,bp:0,SU5436,2017-01-01,11:25,,,VVO,VVO,REA,REA,True,VLADIVOSTOK,SEOUL,,Y,,,,DYELAO,7100246988860481,
+boarding_passes,bp:1,bp:1,SU5436,2017-01-01,11:25,,,VVO,VVO,REA,REA,True,VLADIVOSTOK,SEOUL,,Y,,,,JWARRD,7608904175905333,
+boarding_passes,bp:2,bp:2,SU5436,2017-01-01,11:25,,,VVO,VVO,REA,REA,True,VLADIVOSTOK,SEOUL,,Y,,,,SETJJH,0527257587351371,
+boarding_passes,bp:3,bp:3,SU5436,2017-01-01,11:25,,,VVO,VVO,REA,REA,True,VLADIVOSTOK,SEOUL,,Y,,,,MZZNJI,3696048365585673,
+boarding_passes,bp:4,bp:4,SU5436,2017-01-01,11:25,,,VVO,VVO,REA,REA,True,VLADIVOSTOK,SEOUL,,Y,,,,NJNNPC,7470610229847684,
+pointz,pz_act_1,pz_user_1,KE827,2017-08-06,,,,rea,REA,SZX,SZX,True,,,,,YGRPZT,FB 171388778,,,,
+pointz,pz_act_2,pz_user_1,MU9706,2017-10-26,,,,PEK,PEK,BSD,BSD,False,,,,,YSTNYV,FB 171388778,,,,
+pointz,pz_act_3,pz_user_2,DL5058,2017-09-11,,,,CHA,CHA,ATL,ATL,False,,,,,YRSTKY,KE 696768759,,,,
+pointz,pz_act_4,pz_user_2,KE1,2017-04-01,,,,rea,REA,HNL,HNL,True,,,,,PRSTRU,KE 696768759,,,,
+pointz,pz_act_5,pz_user_2,DL837,2017-09-13,,,,ATL,ATL,HNL,HNL,False,,,,,YGRPNG,KE 696768759,,,,
+skyteam,st_1,,AF1145,2017-01-01,,,,SVO,SVO,CDG,CDG,False,,,,Y,YRSTFN,FB 520518073,,,,
+skyteam,st_2,,AF1844,2017-01-01,,,,SVO,SVO,CDG,CDG,False,,,,Y,YGRPZR,FB 18427809,,,,
+skyteam,st_3,,AF4855,2017-01-01,,,,SVO,SVO,CDG,CDG,False,,,,Y,YRSTJQ,KE 993927664,,,,
+skyteam,st_4,,AF4901,2017-01-01,,,,SVO,SVO,CDG,CDG,False,,,,Y,YGRPAT,SU 789402704,,,,
+skyteam,st_5,,AZ545,2017-01-01,,,,SVO,SVO,FCO,FCO,False,,,,Y,YFLXKO,KE 352734424,,,,

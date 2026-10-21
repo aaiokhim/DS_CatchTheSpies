@@ -1,0 +1,1 @@
+profile_id,flight_seq,date,flight_number,codeshare,origin,origin_city,origin_country_raw,destination,destination_city,destination_country_raw,source,source_record_id,nickname,first_name_norm,last_name_norm
